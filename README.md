@@ -23,7 +23,7 @@ It's especially useful for testing and quick debugging when working with local o
 
 2. Run the app:
    ```bash
-   python servicebus_gui.py
+   python ServiceBusMessageSender.py
    ```
 
 ---
